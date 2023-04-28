@@ -1,0 +1,37 @@
+h1 {
+    background-color: lightskyblue;
+    display: inline-block;
+}
+
+button {
+    background-color: #4CAF50;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+  }
+
+  button:hover {
+    background-color: #3e8e41;
+  }
+
+  button:active {
+    background-color: #4CAF50;
+  }
+
+  button#unhide-btn {
+    background-color: #008CBA;
+    text-align: center;
+     display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+  }
+
+  button#unhide-btn:hover {
+    background-color: #006B9F;
+  }
+
+  button#unhide-btn:active {
+    background-color: #008CBA;
+  }
+
